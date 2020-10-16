@@ -29,7 +29,7 @@ const About = () => {
                 </div>
                 {/* About Section Button*/}
                 <div className="text-center mt-4">
-                    <a className="btn btn-xl btn-outline-light" onClick={() => { window.open('https://drive.google.com/file/d/1NGYcZkGtuCcNe3aJ6boKwKdGylsoSl9s/view?usp=sharing', "_blank") }} >
+                    <a className="btn btn-xl btn-outline-light" onClick={() => { window.open('https://drive.google.com/file/d/1q-DqtwolafsV-1T82-MESSgd6VN39PQ6/view?usp=sharing', "_blank") }} >
                         <i className="fas fa-download mr-2" />
                     Download CV!
       </a>
@@ -40,10 +40,6 @@ const About = () => {
     );
 };
 
-
-About.propTypes = {
-
-};
 
 
 export default About;
